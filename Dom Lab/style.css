@@ -3,6 +3,10 @@ body {
   padding: 20px;
 }
 
+h1 {
+  color: #333;
+}
+
 p {
   font-size: 16px;
 }
@@ -14,5 +18,9 @@ button {
 }
 
 mark {
-  background-color: rgb(167, 206, 214);
+  background-color: rgb(96, 153, 233);
+}
+
+ul {
+  margin-top: 10px;
 }
